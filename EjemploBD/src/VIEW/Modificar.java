@@ -21,7 +21,7 @@ public class Modificar {
 
 
     public void iniciar() {
-        form2 = new JFrame("FACTURA SIN IVA");
+        form2 = new JFrame("Modificar");
         form2.setContentPane(panelAgregar);
         form2.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         form2.pack();

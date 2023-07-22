@@ -18,7 +18,7 @@ public class Agregar {
     private JFrame form2;
 
     public void iniciar() {
-        form2 = new JFrame("Ivan el come vergitas");
+        form2 = new JFrame("Agregar");
         form2.setContentPane(panelAgregar);
         form2.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         form2.pack();
